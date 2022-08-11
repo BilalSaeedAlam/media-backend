@@ -1,8 +1,8 @@
-# NFTes - Backend Repo (Node)
+# Media Carry - Backend Repo (Node)
 
 ### What is this repository for?
 
-NFTes backend API
+Media Carry backend API
 
 > See .env files to set variables that need to be defined
 
@@ -34,16 +34,6 @@ We're using Express, Node & MongoDB for this :
 5. Run Project
 
    **Local**: **npm run start**
-
-   **Development**: **npm run start:dev**
-
-   **Production**: **npm run start:prod**
-
-   **Local-Worker**: **npm run start:worker**
-
-   **Development-Worker**: **npm run start:dev-worker**
-
-   **Production-Worker**: **npm run start:prod-worker**
 
 6. Deployment instructions
    - Replace Environment Variables values w.r.t Environment Infrastructure
